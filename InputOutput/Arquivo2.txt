@@ -1,0 +1,4 @@
+Hoje sao 25/07/2017 as 14h38. Compilei este arquivo.
+cls
+exit
+close
